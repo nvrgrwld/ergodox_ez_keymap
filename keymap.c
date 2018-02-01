@@ -162,6 +162,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
                                                                                                          KC_TRNS, KC_TRNS,
                                                                                                                   TO(SYMB),
                                                                                                 KC_TRNS, KC_TRNS, TO(BASE),
+    
     // right hand
        KC_TRNS,  DYN_MACRO_PLAY1, DYN_MACRO_PLAY2, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS,
        KC_TRNS,  DYN_REC_START1, DYN_REC_START2, DYN_REC_STOP, KC_TRNS, KC_TRNS, KC_TRNS,
